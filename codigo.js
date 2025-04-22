@@ -1,5 +1,5 @@
-const claveApi ="fd6ffc823440453b95700318251504";
-const idioma = "es";
+const claveApi ='fd6ffc823440453b95700318251504';
+const idioma = 'es';
 const inpCiudad = document.getElementById('input-ciudad');
 
 async function obtenerClima(){
